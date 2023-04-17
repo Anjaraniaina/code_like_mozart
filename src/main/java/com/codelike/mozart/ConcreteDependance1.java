@@ -1,9 +1,7 @@
 package com.codelike.mozart;
 
-import lombok.AllArgsConstructor;
-
-import java.util.List;
+import org.springframework.stereotype.Component;
 
 @Component
-public class ConcreteDependance1{
+public class ConcreteDependance1 {
 }

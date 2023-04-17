@@ -1,10 +1,7 @@
 package com.codelike.mozart;
 
-import lombok.AllArgsConstructor;
-
-import java.util.List;
+import org.springframework.stereotype.Component;
 
 @Component
-@AllArgsConstructor
-public class ConcreteClass1 extends AbstractClass1{
+public class ConcreteClass1 extends AbstractClass1 {
 }
